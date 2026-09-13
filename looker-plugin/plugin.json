@@ -1,0 +1,5 @@
+{
+  "name": "looker-antigravity-suite",
+  "version": "1.0.0",
+  "description": "Comprehensive Looker 2.0 Antigravity plugin bundling LookML modeling guidelines, diagnostics, automated UDD publishing, and Looker Remote MCP Server integration."
+}

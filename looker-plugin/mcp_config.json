@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "looker-antigravity-2.0": {
+      "serverUrl": "https://<your-looker-instance>.looker.com/mcp",
+      "disabledTools": [
+        "add_dashboard_element",
+        "add_dashboard_filter",
+        "generate_embed_url",
+        "health_analyze",
+        "health_pulse",
+        "health_vacuum",
+        "make_dashboard",
+        "query_url"
+      ],
+      "oauth": {
+        "clientId": "antigravity"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+# Local Antigravity workspace skills
+.agents/
+
+# OS & Editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*~
